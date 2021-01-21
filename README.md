@@ -1,5 +1,5 @@
-AdminLTE Asset Bundle
-=====================
+AdminLTE Asset Bundle (idenger)
+===============================
 
 [![Latest Stable Version](https://poser.pugx.org/dmstr/yii2-adminlte-asset/v/stable.svg)](https://packagist.org/packages/dmstr/yii2-adminlte-asset) 
 [![Total Downloads](https://poser.pugx.org/dmstr/yii2-adminlte-asset/downloads.svg)](https://packagist.org/packages/dmstr/yii2-adminlte-asset)
